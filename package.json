@@ -1,0 +1,16 @@
+{
+  "name": "passport-mos-oauth2",
+  "description": "",
+  "author": "Ajay <ajay@mother.co>",
+  "private": "true",
+  "version": "0.0.1",
+  "engine": "node 4.2.2",
+  "main": "./lib",
+  "dependencies": {
+    "oauth": "0.9.14",
+    "passport-oauth2": "1.1.2",
+    "passport-strategy": "1.0.0",
+    "underscore": "1.8.3"
+  },
+  "devDependencies": {}
+}
